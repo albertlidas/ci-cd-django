@@ -5,10 +5,14 @@ Live at:
 - AWS Elastic Beanstalk name: http://cicddjango-env.eba-mixqp4bp.eu-central-1.elasticbeanstalk.com/
 - Our sub-domain: http://ci-cd-django.triboapp.com
 
-## Based on Public Tutorial
+Shows JSON on default routing `/` ans Django Admin at `/admin` route
+
+## Based on Public materials
 
 - Tutorial: https://dev.to/djangoafrica/continuous-integration-and-delivery-with-django-and-aws-codepipeline-369j
 - Repo: https://github.com/Nyamador/ci-cd-django
+
+We have to fix some configuration sue to AWS migration to Linux 2
 
 ## ci-cd-django
 
