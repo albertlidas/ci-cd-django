@@ -2,8 +2,8 @@
 
 ## Based on Public Tutorial
 
-Tutorial: https://dev.to/djangoafrica/continuous-integration-and-delivery-with-django-and-aws-codepipeline-369j
-Repo: https://github.com/Nyamador/ci-cd-django
+- Tutorial: https://dev.to/djangoafrica/continuous-integration-and-delivery-with-django-and-aws-codepipeline-369j
+- Repo: https://github.com/Nyamador/ci-cd-django
 
 ## ci-cd-django
 Continuous Integration With Django &amp; AWS
